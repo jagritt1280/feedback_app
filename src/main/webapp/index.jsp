@@ -7,7 +7,7 @@
 	<%@include file="comp/links.jsp" %>
   </head>
   <body>
-    <p>Hi this is test</p>
+    <p>Hi this is test 1</p>
   	<%@include file="header.jsp" %>
     <div style="height:80vh" class="content_container py-4 d-flex flex-column justify-content-center align-items-center">
     	<a href="<%=application.getContextPath() %>/feedback.jsp" class="btn btn-light">Give us feedback</a>
